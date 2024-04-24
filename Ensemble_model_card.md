@@ -113,7 +113,7 @@ The model obtained an F1-score of 69% and an accuracy of 69%.
 ### Software
 
       - Stence Transformers
-      - Sklearm
+      - Sklearn
       - joblib
 
 ## Bias, Risks, and Limitations
