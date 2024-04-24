@@ -71,7 +71,7 @@ More than 26K pairs of premise-hypothesis pairs as training data.
 
       - overall training time: 1min
       - duration per training epoch: 2s
-      - model size: 100KB
+      - model size: 1291KB
 
 ## Evaluation
 
