@@ -89,14 +89,14 @@ A subset of the development set provided, amounting to more than 6K pairs.
 
 <!-- These are the evaluation metrics being used. -->
 
-      - Precision 0.73
-      - Recall 0.64
-      - F1-score 0.68
+      - Precision 0.71
+      - Recall 0.71
+      - F1-score 0.71
       - Accuracy  0.71
 
 ### Results
 
-The model obtained an F1-score of 68% and an accuracy of 71%.
+The model obtained an F1-score of 71% and an accuracy of 71%.
 
 ## Technical Specifications
 
